@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
 using WindowsInput.Native;
+using WindowsInput;
 
 namespace WindowsInput.Tests
 {
